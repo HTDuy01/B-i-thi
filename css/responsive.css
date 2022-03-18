@@ -16,8 +16,7 @@
     font-size: 1.9rem;
   }
   .banner {
-    width: 100%;
-    margin-bottom: unset;
+    width: 90%;
   }
 }
 @media (max-width: 480px) {
@@ -93,14 +92,14 @@
   .front {
     width: 85%;
     /* margin: 0 auto; */
-    padding: 10px;
+    padding: 15px;
     font-size: 17px;
   }
   .front .bold-line {
     font-size: 18px;
   }
   .title-line {
-    padding: 5px 0;
+    padding: 15px 0;
     line-height: 130%;
   }
   .A2 .col-2 {
@@ -126,7 +125,7 @@
     font-size: 17px;
   }
   .title-line {
-    padding: 5px 0;
+    padding: 10px 0;
     line-height: normal;
   }
 }
