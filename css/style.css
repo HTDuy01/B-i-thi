@@ -189,7 +189,6 @@
 
 /* nội dung 2 */
 .A3 {
-  margin: 20px;
   display: flex;
   flex-direction: column;
   width: 100%;
@@ -260,7 +259,7 @@
 /* ảnh nhân vật và câu chuyện đằng sau */
 .char-image {
   margin: 20px;
-  width: 37%;
+  width: 25%;
   object-fit: scale-down;
 }
 .subs {
@@ -494,4 +493,3 @@ footer {
   background-color: #2861b691;
   color: forestgreen;
 }
-
